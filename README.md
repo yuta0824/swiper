@@ -14,7 +14,3 @@ $ 参考サイト: https://swiperjs.com/
 ```
 ```
 $ 参考サイト: https://www.webdesignleaves.com/pr/plugins/swiper_js.html
-<<<<<<< HEAD
-
-=======
->>>>>>> e001822e702dbd7261252f8e8b7b399518e62f99
